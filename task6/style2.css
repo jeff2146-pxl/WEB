@@ -1,0 +1,29 @@
+table {
+    border: rgb(102,0,0) 3px solid;
+    border-collapse: collapse;
+}
+
+td, tr {
+    border: rgb(102,0,0) 1px solid;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    background-image: url(./assets/zwarte-marmer.jpg);
+}
+
+.main {
+    background-image: url(./assets/hout.jpg);
+}
+
+.text {
+    float: right;
+    width: 300px;
+    border: rgb(102,0,0) 3px solid;
+    background-image: url(./assets/witte-marmer.jpg);
+    padding: 10px;
+}
+
+tr:nth-child(odd) td:nth-child(even), tr:nth-child(even) td:nth-child(odd) {
+    background-image: url(./assets/witte-marmer.jpg);
+}
+/*past bijde aangegeven patronen om de buert toe*/

@@ -1,0 +1,22 @@
+* {
+    background-color: #d9ddd7;
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    color: darkgreen;
+}
+
+.paragraaf {
+    background-color:  #6a7689;
+    color:  #ffffff;
+    padding: 20px;
+}
+
+.paragraaf_important {
+    background-color: #6a7689;
+    color: yellow;
+    padding: 20px;
+    margin: 0 auto; /*zet een elemet in het midden van het sherm op de plaats waar het zich nu bevind*/
+    width: 500px;
+}

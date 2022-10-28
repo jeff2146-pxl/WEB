@@ -1,0 +1,16 @@
+table tr td {
+    border: 2px black solid;
+}
+
+tr td {
+    height: 50px;
+    width: 50px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td:nth-child(1) {
+    background-color: red;
+}

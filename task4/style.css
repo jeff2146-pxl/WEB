@@ -1,0 +1,55 @@
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+.main p {
+    padding: 20px;
+    border: 5px black solid;
+    background-color: grey;
+} 
+
+.main h2 {
+    color: blueviolet;
+}
+
+.menu li {
+    display: inline;
+    list-style-type: none;
+    border: 2px black solid;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+#pukkelpop {
+    background-color: blueviolet;
+    color: darkblue;
+}
+
+#graspop {
+    background-color: greenyellow;
+}
+
+#rock {
+    background-color: aqua;
+}
+
+#tommorowland {
+    background-color: brown;
+    color: white;
+}
+
+#dour {
+    background-color: chartreuse;
+}
+
+#festival_name {
+    font-size: 30px;
+    background-color:transparent;
+}
+
+* {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}

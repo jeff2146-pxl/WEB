@@ -1,0 +1,12 @@
+.fancy {
+    border: 5px green solid;
+    background-color: grey;
+    width: 500px;
+    float: right;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+.list {
+    list-style-type: upper-roman;
+}
